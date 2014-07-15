@@ -1,0 +1,16 @@
+html, body {
+  background-color: #D5DFD8;
+  font-family: Verdana, Arial;
+  font-size: 14px;
+}
+
+a { color: #0000FF;}
+
+#container {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #FFF;
+  padding: 20px 40px;
+  border: solid 1px black;
+  margin-top: 20px;
+}
